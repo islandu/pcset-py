@@ -1,7 +1,7 @@
 # pcset-py
 Python class that implements common features of pitch-class sets.
 
-See [Set theory (music)](https://en.wikipedia.org/wiki/Set_theory_(music) for a primer on pitch-class set theory.
+See [Set theory (music)](https://en.wikipedia.org/wiki/Set_theory_(music)) for a primer on pitch-class set theory.
 
 ## Properties
 * `normal_order` provides a list of the pitch classes in normal order
